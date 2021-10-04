@@ -1,6 +1,7 @@
 Tic Tac Toe Web App
 
 Project Structure
+
 In this project, there is only one page consisting of H1, p, span, table, button html elements and designed using CSS.
 Which the table is consist of 3(column) by 3(row) grid and each of the grid being a React Component to easily change it's state using react hooks. And as each of the grid state changes there is function running to check all the possibe combination to check if there is a winner, if there is a winner it will be shown as well as a restart button, if there is no winner just click the button reset.
 
