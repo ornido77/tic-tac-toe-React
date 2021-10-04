@@ -8,8 +8,9 @@ Development environment instructions
 I use VS code as my IDE and GitHub to commit all my codes on a remote repository. Any browser will work but Chrome is recommended.
 
 Execution instructions
-As this project isn't hosted online, you can just simply download or clone the source code in my github account.
+You can simply download or clone the source code in my github account.
 And do an npm install command to download all dependencies and npm start to start the server.
+Or go to https://ornido77.github.io/tic-tac-toe-React/ as I hosted it to github pages.
 
 My comment
 
